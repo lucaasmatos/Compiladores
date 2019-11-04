@@ -8,7 +8,7 @@ CI83A
 Análise Léxica + Sintatica
 
 Grupo:
-Felipy Cavalcante
-Guilherme Murilo
-Débora Rodrigues
+Felipy Cavalcante, 
+Guilherme Murilo, 
+Débora Rodrigues, 
 Lucas Matos
